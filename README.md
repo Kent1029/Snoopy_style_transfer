@@ -4,7 +4,9 @@
 
 ## 輸入的影像
 ![sparkles](snoopy.jpg)
+
 ## 被學習風格的影像
 ![sparkles](style.jpg)
-## 風格轉換後的影像
+
+## 風格轉換後的影像，reshape output image to 512*512 pixel
 ![sparkles](snoopy_transfer.png)
