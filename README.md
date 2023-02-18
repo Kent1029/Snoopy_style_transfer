@@ -5,6 +5,6 @@
 ## 輸入的影像
 ![sparkles](snoopy.jpg)
 ## 被學習風格的影像
-![sparkles](image.jpg)
+![sparkles](style.jpg)
 ## 風格轉換後的影像
 ![sparkles](snoopy_transfer.png)
